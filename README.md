@@ -1,16 +1,34 @@
-## Hi there 👋
+<h1 align="center" style="color:#00ffcc;">Hey, my self <span style="color:#ff00ff;">Aashu</span></h1>
 
-<!--
-**Nullstacker/Nullstacker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="your-image-url-here" width="200" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <code><b style="color:#00ffcc;">programmer</b> | <b style="color:#00ffcc;">Graphics Designer</b></code>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://t.me/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/TELEGRAM-00acee?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## ⚙️ <span style="color:#00ffcc;">Statistics</span>
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=MrRizoel&theme=onedark&title=Stars,Followers,Repositories,Commits,Issues,PullRequest)
+
+</div>
+
+---
+
+### 💡 <span style="color:#ff00ff;">Tech Stack</span>
+
+```bash
+Languages: Python, JavaScript, TypeScript
+Frameworks: React, Express
+Tools: Git, Docker, VScode, googlecolab
